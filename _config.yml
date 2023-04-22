@@ -116,9 +116,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://vllab.cau.ac.kr/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Hongkiseong"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/Hongkiseong"
 
 
 # Site Footer
