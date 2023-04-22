@@ -19,4 +19,7 @@ I am highly interested in continual learning and currently actively researching 
 Additionally, I have a strong interest in automated deep learning, multi-task learning, and their applications to computer vision and robotics, but not limited to.
 
 ## Teaching assistant
-To be update ...
+- Capstone Design<br>
+  Spring 2023
+- Discrete mathematics<br>
+  Fall 2022
