@@ -15,7 +15,8 @@ header:
   Chonnam National University 
 
 ## Research area
-I am highly interested in continual learning and currently actively researching in this area. Additionally, I have a strong interest in deep learning, automated machine learning, multi-task learning, and their applications to computer vision and robotics, but not limited to.
+I am highly interested in continual learning and currently actively researching in this area.<br>
+Additionally, I have a strong interest in deep learning, automated machine learning, multi-task learning, and their applications to computer vision and robotics, but not limited to.
 
 ## Teaching assistant
 To be update ...
