@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About"
 permalink: /about/
 header:
   image: "/images/VLLAB_Banner_3.png"
