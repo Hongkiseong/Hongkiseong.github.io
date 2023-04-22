@@ -7,7 +7,7 @@ header:
 
 
 ## Profile
-- August 2021 ~<br>
+- August 2021 ~ Present<br>
   AI Graduate School<br> 
   Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))
 - March 2016 ~ February 2021<br>
