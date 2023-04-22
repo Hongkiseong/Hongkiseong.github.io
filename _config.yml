@@ -108,7 +108,7 @@ author:
   avatar           : "/images/It'sme.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
-  email            : ""
+  email            : " "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
