@@ -15,17 +15,17 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Seoul, Korea"
+locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kiseong Hong"
-description              : "student blablabla"
+name                     : ""
+description              : ""
 url                      : "https://Hongkiseong/Hongkiseong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png"
+repository               : #"mmistakes/minimal-mistakes"
+teaser                   : #"/assets/images/500x300.png"
+logo                     : #"/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kiseong Hong"
   avatar           : "/images/It'sme.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, Korea"
+  email            : "ghrltjd@cau.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
