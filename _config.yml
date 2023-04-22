@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+#title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -108,7 +108,6 @@ author:
   avatar           : "/images/It'sme.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
-  #email            : "ghrltjd@cau.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,18 +115,10 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://vllab.cau.ac.kr/"
-    #- label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    #- label: "Facebook"
-     # icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Hongkiseong"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
