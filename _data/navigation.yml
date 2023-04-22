@@ -3,7 +3,7 @@
  # main links
 main:
   - title: "About"
-    url: https://Hongkiseong/Hongkiseong.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "Machine Learning"
-    url: /year-archive/
+    url: /machine-learning/
 
