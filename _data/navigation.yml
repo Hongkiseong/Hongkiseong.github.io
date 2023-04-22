@@ -1,6 +1,9 @@
+
+  
+ # main links
 main:
   - title: "About"
-    url: https://vllab.cau.ac.kr/
+    url: https://Hongkiseong/Hongkiseong.github.io/minimal-mistakes/about/
   - title: "Machine Learning"
-    url: https://vllab.cau.ac.kr/
-  # - title: "About"
+    url: /year-archive/
+
