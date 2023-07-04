@@ -6,6 +6,10 @@ header:
 ---
 
 ## Conferece
+Exploration of task-specific network quota for continual learning<br>
+Kiseong Hong and Eunwoo Kim<br>
+*IEIE*, 2023
+
 Task-Aware Dynamic Networks for Multi-Task Learning<br>
 Kiseong Hong, Changseong Kim, and Eunwoo Kim<br>
 *ICEIC*, 2023
