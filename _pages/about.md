@@ -1,5 +1,4 @@
-title: "About Me"
-permalink: /about/
+
 
 ## About me
 - August 2021 ~ Present<br>
