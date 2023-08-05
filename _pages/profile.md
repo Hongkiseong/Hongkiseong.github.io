@@ -4,7 +4,6 @@ permalink: /profile/
 classes: wide  
 ---
 
-
 ### Education
 - *August 2021 ~ Present*<br>
   AI Graduate School, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))
