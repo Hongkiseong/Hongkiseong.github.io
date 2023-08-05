@@ -3,8 +3,10 @@ author_profile: true
 image: "/images/It'sme.jpg"
 ---
 
+I am currently pursuing a Ph.D. program at the [VLLAB](https://vllab.cau.ac.kr/) of Chung-Ang University's AI Graduate School, under the guidance of Professor [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research interests lie in the fields of deep learning and computer vision. Specifically, I have a strong interest in multi-task learning, continual learning, domain adaptation, and their applications.
+I am actively engaged in research within these areas and actively seeking opportunities to collaborate with individuals who share similar research interests, beyond the confines of these fields. If there are any possibilities for collaboration, please do not hesitate to contact me at any time.
 
-## About me
+## Education
 - August 2021 ~ Present<br>
   AI Graduate School<br> 
   Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))
@@ -12,9 +14,13 @@ image: "/images/It'sme.jpg"
   Department of Industrial Engineering<br>
   Chonnam National University 
 
-## Research area
-I am highly interested in continual learning and currently actively researching in this area.<br>
-Additionally, I have a strong interest in automated deep learning, multi-task learning, and their applications to computer vision and robotics, but not limited to.
+## Interests
+- Automated Deep Learning<br>
+- Multi-Task Learning<br>
+- Continual Learning<br>
+- Domain Adaptation<br>
+
+
 
 ## Teaching assistant
 - Capstone Design<br>
