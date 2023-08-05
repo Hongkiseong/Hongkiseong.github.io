@@ -17,7 +17,7 @@ classes: wide
 - Domain Adaptation<br>
 
 ## Programming skills
-- Proficient with:Python, C, JAVA, Pytorch, Scikit-Learn<br>
+- Proficient with: Python, C, JAVA, Pytorch, Scikit-Learn<br>
 - Familiar with: *Python*, *Pytorch*<br>
 
 ## Teaching assistant
