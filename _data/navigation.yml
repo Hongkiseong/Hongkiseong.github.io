@@ -6,6 +6,6 @@ main:
     url: /publication/
   - title: "Project"
     url: /project/
-  #- title: "About"
-  #  url: /about/
+  - title: "Profile"
+    url: /profile/
 
