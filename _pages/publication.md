@@ -1,8 +1,7 @@
 ---
 title: "Publication"
 permalink: /publication/
-header:
-
+classes: wide
 ---
 
 ## Conferece
