@@ -4,24 +4,24 @@ permalink: /profile/
 classes: wide  
 ---
 
-### Education
+### Education<br>
 - *August 2021 ~ Present*<br>
-  AI Graduate School, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))
+  AI Graduate School, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br>
 - *March 2016 ~ February 2021*<br>
-  Department of Industrial Engineering, Chonnam National University 
+  Department of Industrial Engineering, Chonnam National University<br>
 
-### Interests
+### Research interests<br>
 - Automated Deep Learning<br>
 - Multi-Task Learning<br>
 - Continual Learning<br>
 - Domain Adaptation<br>
 
-### Programming skills
+### Programming skills<br>
 - Proficient with:Python, C, JAVA, Pytorch, Scikit-Learn<br>
-- Familiar with: *Python*, *Pytorch*
+- Familiar with: *Python*, *Pytorch*<br>
 
-### Teaching assistant
+### Teaching assistant<br>
 - Capstone Design<br>
-  *Spring 2023*
+  *Spring 2023*<br>
 - Discrete mathematics<br>
   *Fall 2022*
