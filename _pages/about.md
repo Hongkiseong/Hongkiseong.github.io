@@ -1,5 +1,9 @@
+---
 title: "About"
 permalink: /about/
+header:
+  
+---
 
 ## About me
 - August 2021 ~ Present<br>
