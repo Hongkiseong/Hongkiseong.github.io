@@ -20,10 +20,18 @@ I am actively engaged in research within these areas and actively seeking opport
 - Continual Learning<br>
 - Domain Adaptation<br>
 
-
+## Programming Skills
+- Proficient with:Python, C, JAVA, Pytorch, Scikit-Learn<br>
+- Familiar with: Python, Pytorch
 
 ## Teaching assistant
 - Capstone Design<br>
   Spring 2023
 - Discrete mathematics<br>
   Fall 2022
+
+## Contact me
+For any inquires, you can reach me via email: [ghdrltjd@cau.ac.kr]
+
+
+
