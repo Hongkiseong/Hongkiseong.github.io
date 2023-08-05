@@ -1,8 +1,7 @@
 ---
 title: "Project"
 permalink: /project/
-header:
-  
+classes: wide  
 ---
 
 ## Project List
