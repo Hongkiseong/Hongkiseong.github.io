@@ -1,9 +1,9 @@
-
 ---
 title: "Profile"
 permalink: /profile/
 classes: wide  
 ---
+
 
 ### Education
 - *August 2021 ~ Present*<br>
