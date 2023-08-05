@@ -2,6 +2,7 @@
 author_profile: true
 image: "/images/It'sme.jpg"
 classes: wide
+title: "About me"
 ---
 
 I am currently pursuing a Ph.D. program at the [VLLAB](https://vllab.cau.ac.kr/) of Chung-Ang University's AI Graduate School, under the guidance of Professor [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research interests lie in the fields of deep learning and computer vision. Specifically, I have a strong interest in multi-task learning, continual learning, domain adaptation, and their applications.<br>
@@ -10,9 +11,9 @@ I am currently pursuing a Ph.D. program at the [VLLAB](https://vllab.cau.ac.kr/)
 I am actively engaged in research within these areas and actively seeking opportunities to collaborate with individuals who share similar research interests, beyond the confines of these fields. If there are any possibilities for collaboration, please do not hesitate to contact me at any time.
 
 ## Education
-- ***August 2021 ~ Present***<br>
+- *August 2021 ~ Present*<br>
   AI Graduate School, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))
-- ***March 2016 ~ February 2021***<br>
+- *March 2016 ~ February 2021*<br>
   Department of Industrial Engineering, Chonnam National University 
 
 ## Interests
@@ -23,13 +24,13 @@ I am actively engaged in research within these areas and actively seeking opport
 
 ## Programming skills
 - Proficient with:Python, C, JAVA, Pytorch, Scikit-Learn<br>
-- Familiar with: ***Python***, ***Pytorch***
+- Familiar with: *Python*, *Pytorch*
 
 ## Teaching assistant
 - Capstone Design<br>
-  ***Spring 2023***
+  *Spring 2023*
 - Discrete mathematics<br>
-  ***Fall 2022***
+  *Fall 2022*
 
 ## Contact me
 For any inquires, you can reach me via email: [ghdrltjd@cau.ac.kr](mailto:ghdrltjd@cau.ac.kr)
