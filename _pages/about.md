@@ -1,4 +1,5 @@
-
+title: "About"
+permalink: /about/
 
 ## About me
 - August 2021 ~ Present<br>
