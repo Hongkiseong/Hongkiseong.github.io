@@ -13,7 +13,7 @@ classes: wide
 - Funded by Hyundai Construction Equipment<br>
 - *Mar. 2023 ~ Dec. 2023<br>*
 
-***Automated machine learning technology to enhance task-specific learning capability<br>***
+***Automated Machine Learning Technology to Enhance Task-Specific Learning Capability<br>***
 - Funded by MSIT(A.I. Graduate School Program(Chung-Ang University))<br>
 - *Mar. 2021 ~ Dec. 2025<br>*
 
