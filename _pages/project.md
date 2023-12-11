@@ -10,7 +10,7 @@ classes: wide
 - *Mar. 2023 ~ Present<br>*
 
 ***Time-Series Action Prediction and Segmentation<br>***
-- Funded by Hyundai Constructioni Equipment<br>
+- Funded by Hyundai Construction Equipment<br>
 - *Mar. 2023 ~ Dec. 2023<br>*
 
 ***Automated machine learning technology to enhance task-specific learning capability<br>***
