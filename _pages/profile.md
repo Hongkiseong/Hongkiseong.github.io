@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 #### Education
-- ##### *August 2021 ~ Present*<br>
+- ##### *August 2021 ~ Present*
   ##### AI Graduate School, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br>
 - ##### *March 2016 ~ February 2021*<br>
   ##### Department of Industrial Engineering, Chonnam National University<br>
