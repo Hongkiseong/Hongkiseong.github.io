@@ -8,8 +8,8 @@ author_profile: true
 
 
 ##### International Journal
-[GhostNeXt: Rethinking Module Configurations for Efficient Model Design](https://www.mdpi.com/2076-3417/13/5/3301)<br>
-###### **Kiseong Hong**, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
+[GhostNeXt: Rethinking Module Configurations for Efficient Model Design](https://www.mdpi.com/2076-3417/13/5/3301)
+###### **Kiseong Hong**, Gyeong-Hyeon Kim, and Eunwoo Kim
 ###### *Applied Sciences*, vol.13, no.5, Mar. 2023
 
 ##### Domestic Conferece
