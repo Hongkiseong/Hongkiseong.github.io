@@ -2,7 +2,7 @@
 author_profile: true
 image: "/images/It'sme.jpg"
 classes: wide
-title: ###"About me"
+title: ### About me
 ---
 
 I am currently pursuing a Ph.D. program at the [VLLAB](https://vllab.cau.ac.kr/) of Chung-Ang University's AI Graduate School, under the guidance of Professor [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research interests lie in the fields of deep learning and computer vision. Specifically, I have a strong interest in multi-task learning, continual learning, domain adaptation, and their applications.<br>
