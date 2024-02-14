@@ -2,6 +2,7 @@
 title: "Publication"
 permalink: /publication/
 classes: wide
+layout: posts
 ---
 
 
