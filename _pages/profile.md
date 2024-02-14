@@ -7,6 +7,7 @@ author_profile: true
 
 Education
 ___
+
 - *August 2021 ~ Present*<br>
    AI Graduate School, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br>
 - *March 2016 ~ February 2021*<br>
@@ -14,6 +15,7 @@ ___
 
 Research interests
 ___
+
 - Automated Deep Learning<br>
 - Multi-Task Learning<br>
 - Continual Learning<br>
@@ -21,11 +23,13 @@ ___
 
 Programming skills
 ___
+
 - Proficient with: Python, C, JAVA, Pytorch, Scikit-Learn<br>
 - Familiar with: *Python*, *Pytorch*<br>
 
 Teaching assistant
 ___
+
 - Capstone Design<br>
   *Spring 2023*<br>
 - Discrete mathematics<br>
