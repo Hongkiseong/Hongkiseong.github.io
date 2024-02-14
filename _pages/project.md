@@ -4,7 +4,7 @@ permalink: /project/
 classes: wide  
 ---
 
-## Project List
+### Project List
 ***Development of AI for Self-Improving Competency-Aware Learning<br>***
 - Funded by IITP<br>
 - *Mar. 2023 ~ Present<br>*
