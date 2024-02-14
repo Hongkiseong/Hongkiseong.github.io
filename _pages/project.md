@@ -3,6 +3,7 @@ title: "Project"
 permalink: /project/
 classes: wide  
 layout: posts
+author_profile: true
 ---
 
 ### Project List
