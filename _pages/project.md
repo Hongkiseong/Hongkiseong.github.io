@@ -1,5 +1,4 @@
 ---
-title: "Project"
 permalink: /project/
 classes: wide  
 layout: posts
