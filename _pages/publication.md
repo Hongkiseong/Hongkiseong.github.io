@@ -11,7 +11,7 @@ author_profile: true
 **[GhostNeXt: Rethinking Module Configurations for Efficient Model Design](https://www.mdpi.com/2076-3417/13/5/3301)<br>**
 **Kiseong Hong**, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
 *Applied Sciences*, vol.13, no.5, Mar. 2023
-***
+<hr>
 
 ### Domestic Conferece
 **Information filters for video and natural language understanding<br>**
