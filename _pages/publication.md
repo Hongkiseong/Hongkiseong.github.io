@@ -11,18 +11,15 @@ author_profile: true
 [GhostNeXt: Rethinking Module Configurations for Efficient Model Design](https://www.mdpi.com/2076-3417/13/5/3301)<br>
 **Kiseong Hong**, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
 *Applied Sciences*, vol.13, no.5, Mar. 2023
-excerpt_separator: <!--more-->
 
 ### Domestic Conferece
 Information filters for video and natural language understanding<br>
 Hyunjoon Koo, JungKyoo Shin, **Kiseong Hong**, and Eunwoo Kim<br>
 *KRoC*, 2024
-excerpt_separator: <!--more-->
 
 Exploration of task-specific network quota for continual learning<br>
 **Kiseong Hong** and Eunwoo Kim<br>
 *IEIE*, 2023
-excerpt_separator: <!--more-->
 
 Task-Aware Dynamic Networks for Multi-Task Learning<br>
 **Kiseong Hong**, Changseong Kim, and Eunwoo Kim<br>
