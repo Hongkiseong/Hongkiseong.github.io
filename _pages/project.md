@@ -5,7 +5,7 @@ layout: posts
 author_profile: true
 ---
 
-### Project lists
+### Project lists <br>
 Selection of Time-Series Features and Development of an Optimization Methodology<br>
 - Funded by Hyundai Construction Equipment<br>
 - *Mar. 2024 ~ Dec. 2024<br>*
