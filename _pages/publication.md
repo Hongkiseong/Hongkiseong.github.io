@@ -13,14 +13,14 @@ author_profile: true
 ###### *Applied Sciences*, vol.13, no.5, Mar. 2023
 
 ### Domestic Conferece
-Information filters for video and natural language understanding<br>
-Hyunjoon Koo, JungKyoo Shin, **Kiseong Hong**, and Eunwoo Kim<br>
-*KRoC*, 2024
+#### Information filters for video and natural language understanding<br>
+###### Hyunjoon Koo, JungKyoo Shin, **Kiseong Hong**, and Eunwoo Kim<br>
+###### *KRoC*, 2024
 
-Exploration of task-specific network quota for continual learning<br>
-**Kiseong Hong** and Eunwoo Kim<br>
-*IEIE*, 2023
+#### Exploration of task-specific network quota for continual learning<br>
+###### **Kiseong Hong** and Eunwoo Kim<br>
+###### *IEIE*, 2023
 
-Task-Aware Dynamic Networks for Multi-Task Learning<br>
-**Kiseong Hong**, Changseong Kim, and Eunwoo Kim<br>
-*ICEIC*, 2023
+#### Task-Aware Dynamic Networks for Multi-Task Learning<br>
+###### **Kiseong Hong**, Changseong Kim, and Eunwoo Kim<br>
+###### *ICEIC*, 2023
