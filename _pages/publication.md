@@ -1,7 +1,6 @@
 ---
 permalink: /publication/
 classes: wide
-layout: posts
 author_profile: true
 ---
 
