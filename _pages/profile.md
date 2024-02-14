@@ -2,6 +2,7 @@
 title: "Profile"
 permalink: /profile/
 classes: wide  
+layout: posts
 ---
 
 ### Education
