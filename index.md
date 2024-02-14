@@ -8,6 +8,7 @@ layout: posts
 
 
 ## About me
+___
 I am currently pursuing a Ph.D. program at the [VLLAB](https://vllab.cau.ac.kr/) of Chung-Ang University's AI Graduate School, under the guidance of Professor [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research interests lie in the fields of deep learning and computer vision. Specifically, I have a strong interest in multi-task learning, continual learning, domain adaptation, and their applications.<br>
 
 
@@ -16,5 +17,6 @@ I am actively engaged in research within these areas and actively seeking opport
 ___
 
 ## Contact me
+___
 For any inquires, you can reach me via email: [ghdrltjd@cau.ac.kr](mailto:ghdrltjd@cau.ac.kr)
 
