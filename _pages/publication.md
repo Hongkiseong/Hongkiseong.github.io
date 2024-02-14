@@ -3,6 +3,7 @@ permalink: /publication/
 classes: wide
 author_profile: true
 layout: posts
+title: 
 ---
 
 
