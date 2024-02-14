@@ -18,10 +18,12 @@ Information filters for video and natural language understanding<br>
 Hyunjoon Koo, JungKyoo Shin, **Kiseong Hong**, and Eunwoo Kim<br>
 *KRoC*, 2024
 excerpt_separator: <!--more-->
+
 Exploration of task-specific network quota for continual learning<br>
 **Kiseong Hong** and Eunwoo Kim<br>
 *IEIE*, 2023
 excerpt_separator: <!--more-->
+
 Task-Aware Dynamic Networks for Multi-Task Learning<br>
 **Kiseong Hong**, Changseong Kim, and Eunwoo Kim<br>
 *ICEIC*, 2023
