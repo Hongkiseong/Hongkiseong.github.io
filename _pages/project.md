@@ -6,7 +6,7 @@ author_profile: true
 title: ''
 ---
 
-## Project lists 
+## Project Lists 
 ___
 Selection of Time-Series Features and Development of an Optimization Methodology<br>
 - Funded by Hyundai Construction Equipment<br>
