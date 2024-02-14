@@ -3,6 +3,7 @@ author_profile: true
 image: "/images/It'sme.jpg"
 classes: wide
 title: ''
+layout: posts
 ---
 
 
