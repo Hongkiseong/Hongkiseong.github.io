@@ -28,6 +28,8 @@ Programming skills
 ___
 
 Teaching assistant
+- Machine Learning<br>
+  *Spring 2023*<br>
 - Capstone Design<br>
   *Spring 2023*<br>
 - Discrete mathematics<br>
