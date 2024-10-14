@@ -22,7 +22,7 @@ Research interests
 ___
 
 Programming skills
-- Proficient with: Python, C, JAVA, Pytorch, Scikit-Learn<br>
+- Proficient with: Python, C, JAVA<br>
 - Familiar with: *Python*, *Pytorch*<br>
 
 ___
