@@ -8,7 +8,7 @@ title: ''
 
 ## International Conference
 ___
-**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning<br>**
+**[Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning] (https://neurips.cc/virtual/2024/104975)<br>**
 Hayun Lee\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
 *Conference on Neural Information Processing Systems (NeurIPS) Workshop on Adaptive Foundation Models*, Dec. 2024.<br>
 (\* indicates equal contribution)
