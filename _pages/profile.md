@@ -29,6 +29,8 @@ ___
 
 Teaching assistant
 - Machine Learning<br>
+  *Spring 2025*<br>
+- Machine Learning<br>
   *Spring 2023*<br>
 - Capstone Design<br>
   *Spring 2023*<br>
