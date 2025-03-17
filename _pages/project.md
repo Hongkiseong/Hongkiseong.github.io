@@ -14,7 +14,7 @@ Selection of Time-Series Features and Development of an Optimization Methodology
 
 Development of AI for Self-Improving Competency-Aware Learning<br>
 - Funded by IITP<br>
-- *Mar. 2023 ~ Present<br>*
+- *Mar. 2023 ~ Dec. 2024<br>*
 
 Time-Series Action Classification, Segmentation, and Regression<br>
 - Funded by Hyundai Construction Equipment<br>
