@@ -15,6 +15,11 @@ Hayun Lee\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
 
 ## International Journal
 ___
+**Exploration and Exploitation in Continual Learning<br>**
+Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim<br>
+*Neural Networks*, 2025. (Accepted)
+
+
 **[GhostNeXt: Rethinking Module Configurations for Efficient Model Design](https://www.mdpi.com/2076-3417/13/5/3301)<br>**
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
 *Applied Sciences*, vol.13, no.5, Mar. 2023.
