@@ -15,7 +15,7 @@ Hayun Lee\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
 
 ## International Journal
 ___
-**Exploration and Exploitation in Continual Learning<br>**
+**[Exploration and Exploitation in Continual Learning](https://www.sciencedirect.com/science/article/pii/S0893608025003235)<br>**
 Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim<br>
 *Neural Networks*, 2025. (Accepted)
 
