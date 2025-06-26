@@ -8,7 +8,7 @@ title: ''
 
 ## International Conference
 ___
-**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**
+**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning<br>**
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
 *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. (Accepted)
 
