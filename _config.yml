@@ -113,12 +113,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ghdrltjd@cau.ac.kr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://vllab.cau.ac.kr/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Hongkiseong"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://vllab.cau.ac.kr/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/Hongkiseong"
 
 
 # Site Footer
