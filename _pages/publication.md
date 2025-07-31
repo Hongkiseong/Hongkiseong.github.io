@@ -8,9 +8,9 @@ title: ''
 
 ## International Conference
 ___
-**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning<br>**
+**[RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](http://arxiv.org/abs/2507.22553)<br>**
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
-*In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. (Accepted)
+*In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. 
 
 **[Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning](https://openreview.net/forum?id=GI6gHATAMt)<br>**
 Hayun Lee\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
