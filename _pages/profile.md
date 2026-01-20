@@ -14,11 +14,8 @@ Education
 ___
 
 Research interests
-- Automated Deep Learning<br>
-- Multi-Task Learning<br>
 - Continual Learning<br>
 - Machine Unlearning<br>
-- Domain Adaptation<br>
 
 ___
 
