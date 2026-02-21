@@ -109,16 +109,18 @@ author:
   bio              : "Ph.D. Student at Chung-Ang University"
   location         : "Seoul, Korea"
 #   email            : 
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ghdrltjd@cau.ac.kr"
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://vllab.cau.ac.kr/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/Hongkiseong"
+links:
+  - label: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:ghdrltjd@cau.ac.kr"
+
+  - label: "Google Scholar"
+    icon: "fas fa-link"
+    url: "https://scholar.google.com/citations?user=dreeB8EAAAAJ&hl=ko"
+
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/Kiseong0753"
 
 
 # Site Footer
