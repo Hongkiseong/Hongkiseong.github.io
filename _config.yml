@@ -113,11 +113,9 @@ links:
   - label: "Email"
     icon: "fas fa-envelope"
     url: "mailto:ghdrltjd@cau.ac.kr"
-
   - label: "Google Scholar"
     icon: "fas fa-link"
     url: "https://scholar.google.com/citations?user=dreeB8EAAAAJ&hl=ko"
-
   - label: "GitHub"
     icon: "fab fa-github"
     url: "https://github.com/Kiseong0753"
