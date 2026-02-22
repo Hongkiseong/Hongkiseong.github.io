@@ -10,7 +10,7 @@ title: ''
 ___
 Stake the Points: Structure-Faithful Instance Unlearning (accepted)<br>
 Kiseong Hong, JungKyoo Shin, and Eunwoo Kim<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2026.
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2026. [code]
 
 [RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_RainbowPrompt_Diversity-Enhanced_Prompt-Evolving_for_Continual_Learning_ICCV_2025_paper.html)<br>
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
