@@ -8,9 +8,13 @@ title: ''
 
 ## International Conference
 ___
+**Stake the Points: Structure-Faithful Instance Unlearning<br>**
+Kiseong Hong, JungKyoo Shin, and Eunwoo Kim<br>
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2026.
+
 **[RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_RainbowPrompt_Diversity-Enhanced_Prompt-Evolving_for_Continual_Learning_ICCV_2025_paper.html)<br>**
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
-*In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. **[[code]](https://github.com/Kiseong0753/RainbowPrompt)<br>**
+*IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. **[[code]](https://github.com/Kiseong0753/RainbowPrompt)<br>**
 
 **[Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning](https://openreview.net/forum?id=GI6gHATAMt)<br>**
 Hayun Lee\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
