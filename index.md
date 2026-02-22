@@ -1,6 +1,6 @@
 ---
 author_profile: true
-image: "/images/It'sme.jpg"
+image: "/images/KiseongHong.jpg"
 classes: wide
 title: ''
 layout: posts
