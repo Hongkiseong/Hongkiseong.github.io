@@ -8,6 +8,10 @@ title: ''
 
 ## Project Lists 
 ___
+Multi-Modal Continual Learning with Context Understanding<br>
+- Funded by National Research Foundation<br>
+- *Mar. 2024 ~ Dec. 2025<br>*
+
 Selection of Time-Series Features and Development of an Optimization Methodology<br>
 - Funded by Hyundai Construction Equipment<br>
 - *Mar. 2024 ~ Dec. 2024<br>*
