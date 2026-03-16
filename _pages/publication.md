@@ -8,7 +8,7 @@ title: ''
 
 ## International Conference
 ___
-Stake the Points: Structure-Faithful Instance Unlearning (accepted)<br>
+[Stake the Points: Structure-Faithful Instance Unlearning](http://arxiv.org/abs/2603.12915)<br>
 Kiseong Hong, JungKyoo Shin, and Eunwoo Kim<br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2026. [code]
 
