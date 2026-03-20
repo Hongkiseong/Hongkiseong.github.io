@@ -28,6 +28,10 @@ Automated Machine Learning Technology to Enhance Task-Specific Learning Capabili
 - Funded by MSIT(A.I. Graduate School Program(Chung-Ang University))<br>
 - *Mar. 2021 ~ Dec. 2025<br>*
 
+Learning Transferable Task Knowledge and Planner for Service Robots<br>
+- Funded by Samsung Research Funding & Incubation Center<br>
+- *Mar. 2021 ~ Dec. 2023<br>*
+
 
 
 
