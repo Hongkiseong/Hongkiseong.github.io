@@ -113,12 +113,14 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:ghdrltjd@cau.ac.kr"
     - label: "Google Scholar"
-      icon: "fas fa-link"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=dreeB8EAAAAJ&hl=ko"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Kiseong0753"
-
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kiseong-hong-7b59182b7/"
 
 # Site Footer
 footer:
