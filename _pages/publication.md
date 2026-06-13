@@ -11,7 +11,7 @@ ___
 [Stake the Points: Structure-Faithful Instance Unlearning](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)<br>
 Kiseong Hong, JungKyoo Shin, and Eunwoo Kim<br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2026. 
-[[code]](https://github.com/Kiseong0753/RainbowPrompt)
+[[code]](https://github.com/Kiseong0753/StructGuard)
 
 [RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_RainbowPrompt_Diversity-Enhanced_Prompt-Evolving_for_Continual_Learning_ICCV_2025_paper.html)<br>
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
