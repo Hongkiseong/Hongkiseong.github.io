@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /project/
 classes: wide  
 layout: posts
 author_profile: true
