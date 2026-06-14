@@ -1,5 +1,5 @@
 ---
-permalink: /publication/
+permalink: /publications/
 classes: wide
 layout: posts
 author_profile: true
