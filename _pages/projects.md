@@ -8,6 +8,10 @@ title: ''
 
 ## Project Lists 
 ___
+Lifelong Robot Learning<br>
+- Funded by National Research Foundation<br>
+- *Mar. 2026 ~ Present*
+
 Multi-Modal Continual Learning with Context Understanding<br>
 - Funded by National Research Foundation<br>
 - *Mar. 2024 ~ Dec. 2025<br>*
