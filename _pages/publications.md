@@ -24,6 +24,10 @@ Hayun Lee\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
 
 ## International Journal
 ___
+[Prompt-Based Continual Learning via Task-Adaptive Knowledge Sharing](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.70757)<br>
+Changseong Kim, Kiseong Hong, and Eunwoo Kim<br>
+*Electronics Letters*, vol. 62, no. 1, Dec. 2026.
+
 [Exploration and Exploitation in Continual Learning](https://www.sciencedirect.com/science/article/pii/S0893608025003235)<br>
 Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim<br>
 *Neural Networks*, vol. 188, Aug. 2025.
