@@ -16,6 +16,7 @@ ___
 Research interests
 - Continual Learning<br>
 - Machine Unlearning<br>
+- Personalization<br>
 
 ___
 
