@@ -52,7 +52,7 @@ Kiseong Hong, Changseong Kim, and Eunwoo Kim<br>
 
 ## Patents
 ___
-Learning Method for Determining Resource Allocation Ratio of Continual Learning Model and Apparatus Performing the Same<br>
+1. Learning Method for Determining Resource Allocation Ratio of Continual Learning Model and Apparatus Performing the Same<br>
 Republic of Korea, Patent Application No. 10-2025-0032283 (Pending).
 
 
