@@ -36,20 +36,25 @@ Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim<br>
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
 *Applied Sciences*, vol. 13, no.5, Mar. 2023.
 
-
 ## Domestic Conferece
 ___
 Information filters for video and natural language understanding<br>
 Hyunjoon Koo, JungKyoo Shin, Kiseong Hong, and Eunwoo Kim<br>
 *KRoC*, Feb. 2024.
 
-
 Exploration of task-specific network quota for continual learning<br>
 Kiseong Hong and Eunwoo Kim<br>
 *IEIE*, June. 2023.
 
-
 Task-Aware Dynamic Networks for Multi-Task Learning<br>
 Kiseong Hong, Changseong Kim, and Eunwoo Kim<br>
 *ICEIC*, 2023.
+
+## Patents
+___
+Learning Method for Determining Resource Allocation Ratio of Continual Learning Model and Apparatus Performing the Same<br>
+Republic of Korea, Patent Application No. 10-2025-0032283 (Pending).
+
+
+
 
