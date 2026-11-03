@@ -11,7 +11,6 @@ ___
 [Stake the Points: Structure-Faithful Instance Unlearning](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)<br>
 Kiseong Hong, JungKyoo Shin, and Eunwoo Kim<br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2026. [[code]](https://github.com/Kiseong0753/StructGuard)
-
 - Invited Talk, Korean Institute of Broadcast and Media Engineers (KIBME), 2026.
 - Presentation, Korean Conference on Computer Vision (KCCV), 2026.
 
